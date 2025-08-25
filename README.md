@@ -26,7 +26,7 @@ Write your tasks in natural language (e.g. "Finish project report tomorrow at 5p
 - **Database:** PostgreSQL
 - **Authentication:** JWT (OAuth2PasswordBearer)
 - **AI:** Google Gemini API
-- **Deployment:** Render / Railway / Fly.io
+- **Deployment:** Render 
 
 ---
 

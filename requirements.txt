@@ -9,3 +9,4 @@ python-jose[cryptography]
 passlib[bcrypt]
 alembic
 google-generativeai
+PyJWT==2.9.0
